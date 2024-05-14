@@ -31,12 +31,3 @@
 #### Uni-nova
 - Django, PostgreSQL, Python, HTML, CSS, Javascript
 ---
-
-### Educación
-
-- **Licenciatura en Ciencias de la Computación**
-  - Nombre de la Universidad, Año de Graduación
-- **Cursos en Línea y Certificaciones**
-  - Coursera, Udemy, etc.
-
-
