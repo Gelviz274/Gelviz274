@@ -11,7 +11,6 @@
 📫 Puedes contactarme a través de:
 - Email: [jgelvizjaimes13@gmail.com](mailto:jgelvizjaimes13@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/juan-david-gelviz-418a852b7/](https://www.linkedin.com/in/juan-david-gelviz-418a852b7/)
-- GitHub: [github.com/tuperfilgithub](https://github.com/tuperfilgithub)
 
 
 ---
