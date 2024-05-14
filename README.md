@@ -9,13 +9,10 @@
 💼 Estoy buscando activamente oportunidades de colaboración en proyectos innovadores. ¡Ya sea codificación, lluvia de ideas o resolución de problemas, cuéntame!
 
 📫 Puedes contactarme a través de:
-- Email: [tu.email@example.com](mailto:tu.email@example.com)
+- Email: [tu.email@example.com](mailto:jgelvizjaimes13@gmail.com)
 - LinkedIn: [linkedin.com/in/tuperfillinkedin](https://www.linkedin.com/in/tuperfillinkedin)
 - GitHub: [github.com/tuperfilgithub](https://github.com/tuperfilgithub)
 
-😄 Pronombres: Él/Él
-
-⚡ Dato curioso: Tengo un talento secreto para crear deliciosos postres mientras depuro código en mi cabeza. ¿Quién dice que la programación y la cocina no pueden ir de la mano?
 
 ---
 
