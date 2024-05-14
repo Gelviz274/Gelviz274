@@ -9,7 +9,7 @@
 💼 Estoy buscando activamente oportunidades de colaboración en proyectos innovadores. ¡Ya sea codificación, lluvia de ideas o resolución de problemas, cuéntame!
 
 📫 Puedes contactarme a través de:
-- Email: [tu.email@example.com](mailto:jgelvizjaimes13@gmail.com)
+- Email: [jgelvizjaimes13@gmail.com](mailto:jgelvizjaimes13@gmail.com)
 - LinkedIn: [linkedin.com/in/tuperfillinkedin](https://www.linkedin.com/in/tuperfillinkedin)
 - GitHub: [github.com/tuperfilgithub](https://github.com/tuperfilgithub)
 
