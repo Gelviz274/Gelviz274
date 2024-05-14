@@ -17,32 +17,19 @@
 
 ### Habilidades y Expertise
 
-- **Lenguajes**: JavaScript, Python, Java, C#, SQL
-- **Frameworks y Librerías**: React, Node.js, Express.js, Django, Flask
-- **Herramientas y Tecnologías**: Git, Docker, AWS, TensorFlow, Unity
-- **Bases de Datos**: MongoDB, PostgreSQL, MySQL
-- **Otros**: Desarrollo Ágil, Desarrollo Guiado por Pruebas (TDD), DevOps
+- **Lenguajes**: JavaScript, Python, Java, SQL
+- **Frameworks y Librerías**: React, Django
+- **Herramientas y Tecnologías**: Git
+- **Bases de Datos**: PostgreSQL, SQL Server
+
 
 ---
 
 ### Proyectos
 
 #### 🌐 Sitio Web de Portafolio
-- Diseñé y desarrollé un sitio web de portafolio receptivo que muestra mis proyectos, habilidades y experiencia.
-- Stack Tecnológico: HTML, CSS, JavaScript, React
-
-#### 🤖 Herramienta de Análisis de Sentimientos
-- Construí una herramienta de análisis de sentimientos utilizando Procesamiento de Lenguaje Natural (NLP) para analizar y clasificar el sentimiento de texto.
-- Stack Tecnológico: Python, NLTK, TextBlob
-
-#### 🚀 Juego de Space Invaders
-- Recreé el clásico juego de Space Invaders utilizando Unity, agregando gráficos y mecánicas de juego modernas.
-- Stack Tecnológico: C#, Unity
-
-#### 📊 Rastreador del Mercado de Valores
-- Desarrollé una aplicación web rastreadora del mercado de valores para monitorear precios y tendencias de acciones en tiempo real.
-- Stack Tecnológico: React, Node.js, Express.js, MongoDB
-
+#### Uni-nova
+- Django, PostgreSQL, Python, HTML, CSS, Javascript
 ---
 
 ### Educación
@@ -52,10 +39,4 @@
 - **Cursos en Línea y Certificaciones**
   - Coursera, Udemy, etc.
 
----
 
-### ¡Conéctate conmigo!
-
-No dudes en contactarme si quieres colaborar en proyectos, compartir ideas o simplemente hablar sobre las últimas tendencias en tecnología. Siempre estoy abierto a nuevas oportunidades y conexiones.
-
-🌟 ¡Construyamos algo increíble juntos! 🌟
