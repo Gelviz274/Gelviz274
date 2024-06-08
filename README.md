@@ -1,4 +1,4 @@
-# Juan David Gelviz - Desarrollador Extraordinario 🚀
+# Juan David Gelviz  🚀
 
 👋 ¡Hola! Soy Juan David Gelviz, un apasionado desarrollador siempre dispuesto a aprender y crear.
 
