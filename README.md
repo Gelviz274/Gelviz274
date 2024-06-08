@@ -18,7 +18,7 @@
 ### Habilidades y Expertise
 
 - **Lenguajes**: JavaScript, Python, Java, SQL
-- **Frameworks y Librerías**: React, Django
+- **Frameworks y Librerías**: Django
 - **Herramientas y Tecnologías**: Git
 - **Bases de Datos**: PostgreSQL, SQL Server
 
