@@ -72,7 +72,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Gelviz274/Gelviz274/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Gelviz274/Gelviz274/snake.svg" alt="Snake animation" />
 
 ###
 
